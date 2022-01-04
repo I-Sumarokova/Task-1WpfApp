@@ -16,7 +16,7 @@
         </Grid.Background>
 
         <TextBlock Text="Калькулятор" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,-40,0,0" FontSize="24" Foreground="#FFFCF8F8"/>
-        <TextBlock Text="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,30,0,0" Height="70" Width="360" Background="#FFFAF6F6"/>
+        <TextBlock Text="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,30,0,0" Height="75" Width="360" Background="#FFFAF6F6"/>
         <Button Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,130,0,0" Height="80" Width="80" FontSize="24"/>
         <Button Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,130,0,0" Height="80" Width="80" FontSize="24"/>
         <Button Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="190,130,0,0" Height="80" Width="80" FontSize="24"/>
